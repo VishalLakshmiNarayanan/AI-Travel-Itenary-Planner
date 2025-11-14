@@ -9,7 +9,7 @@ import re
 # Groq API Client
 # ---------------------------
 client = OpenAI(
-    api_key="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",
+    api_key="your_api_key",
     base_url="https://api.groq.com/openai/v1"
 )
 
